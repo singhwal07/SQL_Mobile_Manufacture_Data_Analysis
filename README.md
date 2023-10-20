@@ -1,8 +1,6 @@
 # SQL_Mobile_Manufacture_Data_Analysis
 Analysis of Mobile Sales Transactions
 
-# SQL_Retail_Data_Analysis-Project
-
 ##Table Content
 
 Table Name : DIM_CUSTOMER    
